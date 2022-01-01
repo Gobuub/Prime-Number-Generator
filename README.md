@@ -22,11 +22,10 @@ Para ejecutar o ver la solución será necesario tener instalado jupyter noteboo
 
 ## Contact info | Not required | Recommended
 
-Puede visitar mi web para ver más proyectos mios.
+Puede visitar mi [web](https://enriquerevueltagarcia.com) para ver más proyectos mios.
 
-[enriquerevueltagarcia.com](url)
-o explorar mi github
-[github.com/Gobuub](url)
+o explorar mi [github](https://github.com/Gobuub)
+
 
 
 
