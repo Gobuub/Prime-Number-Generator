@@ -1,33 +1,34 @@
 
-# PROJECT NAME
+# PRIME NUMBER GENERATOR
 
-Project_name: utilizar nombres que sean facilmente identificables para personas que puedan llegar a tener interés en ese modulo o que estén buscando algo similar.
-
-> Breve descripción del proyecto, más o menos 15 - 20 palabras: 
+La idea es encontrar todos los números reales posibles cuyos divisores cumplen la formula d + n / d da como resultado un número primo, donde d es el divisor y n el número elegido.
 
 ## Background | Problema a solucionar
 
-Exponer brevemente el problema expuesto (> 20 palabras )
+Encuentre la suma de todos los números enteros positivos n que no excedan 100.000.000 tal que para cada divisor d de n, d + n / d es primo.
 
-## Resultados y anlásis 
+Ejemplo: 30
 
-Exponer y comentar los resultados obtenidos > 50 palabras (mín)
+Considera los divisores de 30: 1, 2, 3, 5, 6, 10, 15, 30. Puede verse que para cada divisor d de 30, d + 30 / d es primo.
+
 
 ## Solución adoptada
 
-Eplicar porqué se escogido ese algoritmo/algoritmo/métodos adoptados y su solución. (> 30 palabras)
+Para hallár la solución he realizado dos funciones hasta la fecha, en un primer momento tenía divido en tres, pero he conseguido hacerlo en dos funciones mejorando con ello el tiempo de ejecución.
 
 ## Installation
 
-Como utilzar el proyecto y empezar a trabajar con el
+Para ejecutar o ver la solución será necesario tener instalado jupyter notebook y python 3.8
 
 ## Contact info | Not required | Recommended
 
-Incluir algo de info sobre contcto y el autor (si queréis poner background)
+Puede visitar mi web para ver más proyectos mios.
 
-## License 
+enriquerevueltagarcia.com(url)
+o explorar mi github
+github.com/Gobuub
 
-Inlcuir la licéncia y el link a esta 
+
 
 [NOMBRE](url)
 
