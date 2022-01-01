@@ -24,11 +24,10 @@ Para ejecutar o ver la solución será necesario tener instalado jupyter noteboo
 
 Puede visitar mi web para ver más proyectos mios.
 
-enriquerevueltagarcia.com(url)
+[enriquerevueltagarcia.com](url)
 o explorar mi github
-github.com/Gobuub
+[github.com/Gobuub](url)
 
 
 
-[NOMBRE](url)
 
