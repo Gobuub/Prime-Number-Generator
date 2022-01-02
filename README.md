@@ -3,7 +3,7 @@
 
 La idea es encontrar todos los números reales posibles cuyos divisores cumplen la formula d + n / d da como resultado un número primo, donde d es el divisor y n el número elegido.
 
-## Background | Problema a solucionar
+## Problema a solucionar.
 
 Encuentre la suma de todos los números enteros positivos n que no excedan 100.000.000 tal que para cada divisor d de n, d + n / d es primo.
 
@@ -18,7 +18,7 @@ La Suma total de los números reales enteros  hasta 100.000.000 que cumplen la c
 El número de cálculos realizado aumenta de forma exponencial con cada número que añadimos, por lo que a partir de 1.000.000 los tiempos de ejecución son bastante altos, seguiré buscando métodos para mejorar el tiempo de ejecución.
 
 
-## Solución adoptada
+## Solución adoptada.
 
 Para hallár la solución he realizado dos funciones hasta la fecha, en un primer momento tenía divido en tres, pero he conseguido hacerlo en dos funciones mejorando con ello el tiempo de ejecución.
 
@@ -26,11 +26,11 @@ Ver.2
 
 Se rediseña la función final de ejecución sustituyen el bucle for por la función map buscando mejorar el tiempo de ejecución.
 
-## Installation
+## Instalación.
 
 Para ejecutar o ver la solución será necesario tener instalado jupyter notebook y python 3.8
 
-## Contact info | Not required | Recommended
+## Contact info.
 
 Puede visitar mi [web](https://enriquerevueltagarcia.com) para ver más proyectos mios.
 
